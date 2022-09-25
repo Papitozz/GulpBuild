@@ -114,7 +114,6 @@ function watch() {
 exports.clean = clean
 exports.styles = styles
 exports.watch = watch
-exports.build = build
 exports.scripts = scripts
 exports.img = img
 exports.html = html
