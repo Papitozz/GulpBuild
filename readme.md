@@ -34,7 +34,7 @@
 | **Путь** | dist/ | dist/css/style.min.css | dist/js/main.min.js | dist/img/ |
 
 ## Зупуск:  
-1. Скачать все файлы проекта  
+1. Скачать все файлы проекта или git clone https://github.com/Papitozz/GulpBuild  
 2. В терминале перейти в каталог проекта  
 3. Выполнить команду: npm i (должен быть установлен node.js)  
 4. Создать каталоги и файлы
